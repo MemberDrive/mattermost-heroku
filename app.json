@@ -1,7 +1,7 @@
 {
     "name": "Mattermost Heroku",
     "description": "Deploy Mattermost to Heroku",
-    "repository": "https://github.com/MemberDrive/mattermost-heroku",
+    "repository": "https://github.com/memberdrive/mattermost-heroku",
     "keywords": [
         "mattermost",
         "nginx"
@@ -12,7 +12,7 @@
             "url": "https://github.com/heroku/heroku-buildpack-nginx.git"
         },
         {
-            "url": "http://github.com/MemberDrive/mattermost-heroku.git"
+            "url": "http://github.com/memberdrive/mattermost-heroku.git"
         }
     ],
     "env": {
